@@ -1,4 +1,4 @@
-# 👨‍💻 **Hello World!** I'm a Full Stack Developer
+# 👨‍💻 Hello World
 ### **Senior Full Stack Developer** | **8+ Years** Building Scalable Solutions
 
 ---
